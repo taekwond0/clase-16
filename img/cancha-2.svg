@@ -21,11 +21,12 @@
 	.st15{font-size:6.777px;}
 	.st16{font-size:5.916px;}
 	.st17{fill:#E83B44;}
-	.st18{font-size:7.4964px;}
-	.st19{font-size:7.9296px;}
+	.st18{font-size:7.4958px;}
+	.st19{font-size:7.9302px;}
 	.st20{fill:#1E2D4F;stroke:#8FCFFF;stroke-width:0.25;stroke-miterlimit:10;}
 	.st21{font-family:'MicrosoftSansSerif';}
 	.st22{font-size:8px;}
+	.st23{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
 </style>
 <g id="Capa_3">
 </g>
@@ -631,7 +632,7 @@
 <text transform="matrix(1 0 0 1 311.8588 278.7931)" class="st10 st11">10 a 12 metros</text>
 <text transform="matrix(0.2918 -0.8596 0.9503 0.3114 211.2072 187.6725)" class="st12 st10 st13">8 metros</text>
 <circle class="st14" cx="467.5" cy="26.6" r="3.7"/>
-<text transform="matrix(0.8884 -2.435396e-03 2.552489e-03 1 426.7906 188.634)" class="st12 st10 st15">8 metros</text>
+<text transform="matrix(0.8884 -2.435396e-03 2.552489e-03 1 426.8531 188.6338)" class="st12 st10 st15">8 metros</text>
 <line class="st8" x1="212.7" y1="57.7" x2="92.6" y2="270.7"/>
 <text transform="matrix(0.4909 -0.8712 0.8712 0.4909 138.1993 184.2698)" class="st10 st11">10 a 12 metros</text>
 <text transform="matrix(1.0001 0 0 1 466.0332 28.5096)" class="st10 st16">3</text>
@@ -671,11 +672,11 @@
 <line class="st6" x1="472.5" y1="60.2" x2="473.7" y2="59.6"/>
 <line class="st7" x1="68.9" y1="262.8" x2="594" y2="262.8"/>
 <line class="st7" x1="98.5" y1="263.3" x2="216.5" y2="56.8"/>
-<text transform="matrix(0.4664 -0.8401 0.8669 0.4984 132.0672 199.0182)" class="st12 st10 st18">10 a 12 metros</text>
-<text transform="matrix(1.1894 -1.689192e-02 -5.182469e-02 0.9987 486.1704 260.1033)" class="st12 st10 st19">10 a 12 metros</text>
+<text transform="matrix(0.4664 -0.8401 0.8669 0.4984 132.0677 199.0173)" class="st12 st10 st18">10 a 12 metros</text>
+<text transform="matrix(1.1892 -1.689044e-02 -5.182016e-02 0.9987 486.1699 260.1035)" class="st12 st10 st19">10 a 12 metros</text>
 <g id="Capa_3_00000129191324470231634700000010893614868781760146_">
 </g>
-<path class="st20" d="M368.1,160.9c-0.4-0.3,0.1-1.2,0.1-1.2c0.9-1.8,0.9-3.6,0.3-3.1c-0.8,0.7-2.5,4-3.7,5.6
+<path class="st20" d="M341.5,160c-0.4-0.3,0.1-1.2,0.1-1.2c0.9-1.8,0.9-3.6,0.3-3.1c-0.8,0.7-2.5,4-3.7,5.6
 	c-0.3,0.4-1.5,0.6-2.5,0.6c-0.7,0-1.2-0.3-1.9-0.1c-0.3,0.1-0.5,0.2-0.7,0.4c-0.3,0.2-0.7,0.2-1.1,0.3c-0.8,0.1-2.6,0.1-2.7,0l0,0
 	c-0.5,0-1.2-0.1-1.8,0.1c-0.2,0.1-0.3,0.2-0.6,0.3c-0.3,0.1-0.6,0-0.8,0c-0.6,0-0.9,0.3-1.4,0.5s-1,0-1.6,0
 	c-0.6-0.1-3.8-0.4-3.8-0.4c-0.4-0.1-4.2-0.4-5.8-0.5c-0.6-0.1-1.9-0.1-2.5-0.4c-0.6-0.3,0.2-2.2,0.2-2.6c0-0.1,0.2-0.8,0.2-0.9
@@ -692,7 +693,7 @@
 	c0.8-2.6,1.2-8.3,1.4-11c0.3-2.8,0.2-5.7,0.7-8.5c0.2-1.4,0.8-2.7,0.8-4s-0.6-2.7-1-3.9c0,0,1.4-0.4,1.9-1.9
 	c0.2-0.7,0.4-7.5,0.6-8.2c0.5-1.7,0.7-3.5,0.9-5.3h-0.1h0.1c0.2-1.3,1.9-1,2.8-1.1c1.5-0.1,3.1-0.2,4.4-0.8c0,0,1.1-0.6,1.7-0.9
 	c0.6-0.4,2.5-0.8,2.5-0.8s4.3-1.1,5.2-2c0.2-0.2,0.3-0.6,0.5-0.8s0.8-0.2,1-0.3c0.6-0.3,1.5-1.3,2.5-1.5c0.6-0.1,1.2-0.6,1.4-1.2
-	c0.1-0.2,0.1-0.5,0.2-0.7c0.2-0.2,1.3-0.3,1.5-1C369.8,160.3,368.5,161.1,368.1,160.9z"/>
+	c0.1-0.2,0.1-0.5,0.2-0.7c0.2-0.2,1.3-0.3,1.5-1C343.2,159.4,341.9,160.2,341.5,160z"/>
 <path class="st12" d="M336.5,61.6c0.2,0.1,0.4,0.2,0.6,0.4c0.9,0.6,1.3,1.5,1.8,2.4c0.2,0.4,0.4,0.9,0.6,1.3
 	c0.1,0.2,0.4,0.5,0.6,0.7c0.8,0.8,1.6,1.5,2.3,2.4c0.6,0.6,1.2,1.3,1.8,2c0.7,0.9,1.5,1.9,2.1,2.9c0.6,0.9,1.1,1.8,1.7,2.6
 	c0.2,0.3,0.4,0.5,0.6,0.8c0.5,0.8,1,1.5,1.1,2.5c0,0.1,0.2,0.2,0.3,0.2c0.6,0.1,0.9,0.5,1.1,1c0.2,0.7,0.7,1.1,1.4,1.3
@@ -754,18 +755,17 @@
 <text transform="matrix(1 0 0 1 563.2366 125.2999)" class="st21 st22">Coach competidor 2,</text>
 <text transform="matrix(1 0 0 1 563.2366 134.8999)" class="st21 st22">debe mirar la pelea para </text>
 <text transform="matrix(1 0 0 1 563.2366 144.4999)" class="st21 st22">corregir y guiar a su competidor</text>
-<text transform="matrix(1 0 0 1 55.31 152.1)" class="st21 st22">Coach competidor 1</text>
+<text transform="matrix(1 0 0 1 51.9671 152.1)" class="st21 st22">Coach competidor 1</text>
 <text transform="matrix(1 0 0 1 250.0326 234.9779)" class="st21 st22">Arbitro designado para </text>
-<text transform="matrix(1 0 0 1 237.2326 244.5779)" class="st21 st22">llevar el combate apegado </text>
+<text transform="matrix(1 0 0 1 237.7758 244.5779)" class="st21 st22">llevar el combate apegado </text>
 <text transform="matrix(1 0 0 1 209.8326 254.1779)" class="st21 st22">a las reglas impuestas por la WTF.</text>
 <text transform="matrix(1 0 0 1 231.1381 96.0797)" class="st21 st22">Competidor 1</text>
 <text transform="matrix(1 0 0 1 375.9098 117.4)" class="st21 st22">Competidor 2</text>
-<path class="st8" d="M565.4,109.4c10,0.3,18.1-0.2,23.8-0.7c5.9-0.5,11.4-1.3,13.4,1.7c1.2,1.8,0.7,4.4,0,6.3"/>
-<path class="st8" d="M384,86c6.8-2.8,14.6-1.3,19.8,3.6c5.6,5.4,7.3,13.9,4,21.1"/>
-<path class="st8" d="M289.6,109.3c-4.8,5.6-12.3,7.9-19.3,5.9c-7.5-2.2-12.8-9-13.2-17"/>
-<path class="st8" d="M355.3,21.5c3.3-5,9.3-7.4,15.2-5.9c6.4,1.6,11.6,7.3,12.8,14.1"/>
-<path class="st8" d="M184.3,24.4c-9.6,0.3-17.3-0.2-22.8-0.7c-5.6-0.5-10.9-1.3-12.8,1.7c-1.2,1.8-0.7,4.4,0,6.3"/>
-<path class="st8" d="M88,145.5c-3.5-4.9-3.5-11.3,0.1-16.3c3.8-5.4,11-8.1,17.8-6.8"/>
-<path class="st8" d="M321.4,203.2c-2.3,0.2-6,0.5-10.4,0.3c-6.2-0.2-8.5-0.9-10.1,0.7c-1.8,1.8-0.8,4.8-0.3,10.6
-	c0.3,3.6,0.4,8.5-0.3,14.4"/>
+<polyline class="st23" points="561.7,103.1 600.2,102.9 600.2,118.2 "/>
+<polyline class="st23" points="353.7,17.7 388.5,17.6 388.5,32 "/>
+<polyline class="st23" points="280.1,103.8 253.3,103.9 253.3,97.2 "/>
+<polyline class="st23" points="380.2,102 399.5,101.9 399.5,111.1 "/>
+<polyline class="st23" points="185,23.9 140.9,24 141,33.3 "/>
+<polyline class="st23" points="107.5,130.7 77.7,130.6 77.7,145.9 "/>
+<polyline class="st23" points="269.7,228.3 269.2,215.5 300.3,215.1 "/>
 </svg>
